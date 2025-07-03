@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/backgrounds">
+    <file>main_menu_background.jpg</file>
+    <file>white_background.jpg</file>
+  </qresource>
+  <qresource prefix="/backgrounds2">
+    <file>background_2.jpg</file>
+  </qresource>
+  <qresource prefix="/backgrounds3">
+    <file>background_3.jpg</file>
+  </qresource>
+  <qresource prefix="/backgrounds4">
+    <file>background_4.jpg</file>
+  </qresource>
+  <qresource prefix="/backgrounds5">
+    <file>background_5.jpg</file>
+  </qresource>
+  <qresource prefix="/backgrounds6">
+    <file>background_6.jpg</file>
+  </qresource>
+  <qresource prefix="/backgrounds7">
+    <file>background_7.jpg</file>
+  </qresource>
+</RCC>
