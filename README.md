@@ -22,6 +22,8 @@ This app reads those JSON files and transforms your streaming history into a set
 5. Top album
 6. Song completion rate
 
+<br />
+
 **Program In Use**
 
 Here are my statistics for the first half of 2025:
