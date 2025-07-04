@@ -14,15 +14,15 @@ This app reads those JSON files and transforms your streaming history into a set
 
 
 **Features**
-- Total minutes listened
-- Total tracks played
-- Top 5 songs
-- Top 5 artists
-- Top album
-- Song completion rate
+1. Total minutes listened
+2. Total tracks played
+3. Top 5 songs
+4. Top 5 artists
+5. Top album
+6. Song completion rate
 
 **Program In Use**
-
+Here are my statistics for the first half of 2025:
 ![Screenshot 2025-07-03 225750](https://github.com/user-attachments/assets/bfa56c60-9baf-4c57-8bfa-e3e08ee13552)
 
 ![Screenshot 2025-07-03 221943](https://github.com/user-attachments/assets/7f09daad-cd23-45b0-8be6-8c277ae53419)
