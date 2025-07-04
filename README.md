@@ -1,13 +1,16 @@
 **Description**
 
-A PyQt5 desktop app that visualizes your Spotify listening data in a Spotify Wrapped-style slideshow.
+A PyQt5 desktop application that visualizes your Spotify listening data in a Spotify Wrapped-style slideshow.
 
 
 **Steps**
 
-On Spotify you are able to request your extended streaming history in the following link: [https://www.spotify.com/in-en/account/privacy/](https://www.spotify.com/in-en/account/privacy/). You later receive multiple JSON files of the songs you have listened to since the creation of your account. 
+Spotify allows you to request your extended streaming history from this link:
+[https://www.spotify.com/in-en/account/privacy/](https://www.spotify.com/in-en/account/privacy/)
 
-This app is a JSON reader that converts your extensive streaming history into basic statistics about your listening history. 
+After submitting the request, you’ll receive multiple JSON files containing detailed information about every song you've listened to since creating your account.
+
+This app reads those JSON files and transforms your streaming history into a set of engaging and easy-to-understand statistics.
 
 
 **Features**
@@ -17,3 +20,5 @@ This app is a JSON reader that converts your extensive streaming history into ba
 - Top 5 artists
 - Top album
 - Song completion rate
+
+**Progream In Use**
