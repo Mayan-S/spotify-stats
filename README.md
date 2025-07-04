@@ -2,6 +2,7 @@
 
 A PyQt5 desktop application that visualizes your Spotify listening data in a Spotify Wrapped-style slideshow.
 
+<br /> 
 
 **Steps**
 
@@ -12,6 +13,7 @@ After submitting the request, you’ll receive multiple JSON files containing de
 
 This app reads those JSON files and transforms your streaming history into a set of engaging and easy-to-understand statistics.
 
+<br /> 
 
 **Features**
 
