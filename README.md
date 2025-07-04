@@ -1,4 +1,4 @@
-**Spotify Stats**
+**Description**
 
 A PyQt5 desktop app that visualizes your Spotify listening data in a Spotify Wrapped-style slideshow.
 
