@@ -22,12 +22,12 @@ This app reads those JSON files and transforms your streaming history into a set
 - Song completion rate
 
 **Program In Use**
-![Screenshot 2025-07-03 225750](https://github.com/user-attachments/assets/bf1cebf2-ae42-4d99-b1b8-bb202912fc78)
-![Screenshot 2025-07-03 223445](https://github.com/user-attachments/assets/5b0a766b-3d8e-4418-87bc-3074cbc51cc0)
-![Screenshot 2025-07-03 222220](https://github.com/user-attachments/assets/0952904f-ad84-4902-997b-c5d7be1628fa)
-![Screenshot 2025-07-03 222209](https://github.com/user-attachments/assets/cd321b32-359d-4859-9ef5-c669c5f47a2f)
-![Screenshot 2025-07-03 222158](https://github.com/user-attachments/assets/85a39fda-7e12-4c4c-95ea-5d54eda3788b)
-![Screenshot 2025-07-03 222129](https://github.com/user-attachments/assets/1d803938-344b-432e-9328-2a7c6c63678b)
-![Screenshot 2025-07-03 222003](https://github.com/user-attachments/assets/4b6d4e37-9085-4a76-8bd2-ef2c55fd9037)
-![Screenshot 2025-07-03 221943](https://github.com/user-attachments/assets/49739643-cd9c-4440-bd75-0b08ca43061c)
 
+![Screenshot 2025-07-03 225750](https://github.com/user-attachments/assets/bfa56c60-9baf-4c57-8bfa-e3e08ee13552)
+![Screenshot 2025-07-03 223445](https://github.com/user-attachments/assets/04c7ddb8-2760-454c-bb1a-8d4e4345f115)
+![Screenshot 2025-07-03 222220](https://github.com/user-attachments/assets/2139ccdf-285e-4c2f-966d-35d325f9f7ee)
+![Screenshot 2025-07-03 222209](https://github.com/user-attachments/assets/444f1743-ed57-4d10-8850-8bec48ef66aa)
+![Screenshot 2025-07-03 222158](https://github.com/user-attachments/assets/737577ef-cca5-4e81-8ff0-13e8bb92087a)
+![Screenshot 2025-07-03 222129](https://github.com/user-attachments/assets/43c0dc2f-0717-4430-8f24-c4bf7ba28a39)
+![Screenshot 2025-07-03 222003](https://github.com/user-attachments/assets/f3d5a4e6-2565-499d-a216-d78549992b44)
+![Screenshot 2025-07-03 221943](https://github.com/user-attachments/assets/7f09daad-cd23-45b0-8be6-8c277ae53419)
