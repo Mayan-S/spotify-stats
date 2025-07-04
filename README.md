@@ -13,7 +13,7 @@ After submitting the request, you’ll receive multiple JSON files containing de
 
 This application reads those JSON files and transforms your streaming history into a set of engaging and easy-to-understand statistics.
 
-You can find the application in the latest release: Spotify_Stats.exe
+You can find the application in the latest release: **Spotify_Stats.exe**
 
 <br /> 
 
