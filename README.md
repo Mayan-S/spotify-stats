@@ -30,7 +30,7 @@ You can find the application in the latest release: **Spotify_Stats.exe**
 
 **Program In Use**
 
-Here are my statistics for the first half of 2025:
+Here are some sample statistics for the first half of 2025:
 
 ![Screenshot 2025-07-03 225750](https://github.com/user-attachments/assets/bfa56c60-9baf-4c57-8bfa-e3e08ee13552)
 
