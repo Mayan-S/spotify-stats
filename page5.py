@@ -2,6 +2,18 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 import resources_rc
 from page6 import Ui_Form as Page6Form  
 
+import PyQt5
+import os
+os.environ["QT_AUTO_SCREEN_SCALE_FACTOR"] = "0"
+os.environ["QT_SCALE_FACTOR"] = "1"
+os.environ["QT_SCREEN_SCALE_FACTORS"] = "1"
+
+if hasattr(QtCore.Qt, 'AA_EnableHighDpiScaling'):
+    PyQt5.QtWidgets.QApplication.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling, False)
+
+if hasattr(QtCore.Qt, 'AA_UseHighDpiPixmaps'):
+    PyQt5.QtWidgets.QApplication.setAttribute(QtCore.Qt.AA_UseHighDpiPixmaps, False)
+
 class Ui_Form(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
