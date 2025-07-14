@@ -1,6 +1,6 @@
 **Description**
 
-A PyQt5 desktop application that visualizes your Spotify listening data in a Spotify Wrapped-style slideshow.
+A PyQt5 desktop application that visualizes your Spotify listening data in a Spotify Wrapped style slideshow.
 
 <br /> 
 
