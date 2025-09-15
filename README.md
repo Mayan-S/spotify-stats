@@ -6,14 +6,14 @@ A PyQt5 desktop application that displays your Spotify listening data in a Spoti
 
 **Steps**
 
-Spotify allows you to request your extended streaming history from this link:
+1. Spotify allows you to request your extended streaming history from this link:
 [https://www.spotify.com/in-en/account/privacy/](https://www.spotify.com/in-en/account/privacy/)
 
-After submitting the request, you’ll receive multiple JSON files containing detailed information about every song you've listened to since creating your Spotify account.
+2. After submitting the request, you’ll receive multiple JSON files containing detailed information about every song you've listened to since creating your Spotify account.
 
-This application reads those JSON files and transforms your streaming history into a set of engaging and easy-to-understand statistics.
+3. This application reads those JSON files and transforms your streaming history into a set of engaging and easy-to-understand statistics.
 
-You can find the application in the latest release: **Spotify_Stats.exe**
+4. You can find the application in the latest release: **Spotify_Stats.exe**
 
 <br /> 
 
